@@ -1,0 +1,23 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "## firebase framework7 v4 login demo for a CAPSTONE team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhildred/framework7GroceryScaffold.git"
+  },
+  "author": "NIMISHA GOSAIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhildred/framework7GroceryScaffold/issues"
+  },
+  "homepage": "https://github.com/rhildred/framework7GroceryScaffold#readme",
+  "dependencies": {
+    "firebase": "^9.15.0"
+  }
+}

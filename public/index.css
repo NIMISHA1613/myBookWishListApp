@@ -1,0 +1,78 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/framework7/5.7.10/css/framework7.bundle.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css";
+
+.navbar .title {
+  line-height: 2em;
+}
+
+.navbar {
+  background: white;
+}
+
+.navbar-inner {
+  justify-content: center !important;
+}
+
+#magic button {
+  background-color: blue;
+}
+
+#loginSignin {
+  width: 12em;
+}
+
+#logout {
+  width: 7em;
+}
+
+.button {
+  width: 40em;
+  display: inline-flex;
+}
+
+#map-here {
+  height: 75vh;
+  margin-top: 0.5em;
+}
+
+#closeSave {
+  margin: 0;
+  width: 12em;
+}
+
+#theNote {
+  width: 100%;
+  height: 100%;
+}
+
+#tab2 {
+  min-height: 75vh;
+}
+
+#addItem {
+  height: 400px;
+  margin: 0;
+}
+
+.bottom-right {
+  position: fixed;
+  bottom: 10px;
+  right: 30px;
+}
+
+.strike-through {
+  text-decoration: line-through;
+}
+
+.large-font {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.green-card {
+  background-color: lightgreen;
+}
+
+.red-card {
+  background-color: red;
+}
